@@ -1,0 +1,1 @@
+En esta carpeta estan todos lo montecarlo previamente elaborados en el salon, los dos ultimos en agregar fueron los Montecarlo sin hilos y el que imprime el tiempo secuencial, paralelo, etc.
